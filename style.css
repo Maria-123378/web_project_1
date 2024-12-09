@@ -1,0 +1,27 @@
+/* Basic styling for the website */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a7a7e7;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #007BFF;
+}
+
+p {
+    font-size: 15;
+    margin-top: 10px;
+}
